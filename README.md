@@ -1,3 +1,5 @@
+Users compete with each other for typing speed.
+
 !pip install discord.py
 
 !pip install nest_asyncio
