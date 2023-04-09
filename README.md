@@ -4,7 +4,7 @@
 
 client.run(token)
 
-start command: !play
+Start command in discord: !play
 
 
 There are sentences that appear in textList
