@@ -1,5 +1,5 @@
-Users compete with each other for typing speed.
-eparate typing battles can be held on multiple servers
+* Users compete with each other for typing speed.
+* separate typing battles can be held on multiple servers
 
 !pip install discord.py
 
