@@ -10,4 +10,4 @@ client.run(token)
 Start command in discord: !play
 
 
-There are sentences that appear in textList
+* The sentences that will be submitted are in the textList.
